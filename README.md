@@ -7,3 +7,6 @@ The PMS7003 is a particle matter counter capable of detecting particulates in th
 ![PMS7003](https://user-images.githubusercontent.com/96729158/147498673-238b31cd-9713-4684-9d6d-33fd92b32af4.png)
 
 All of the data pins require a 3.3v TTL level, but power must be supplied to VCC at 5v, which is a requirement for proper operation of the built-in fan. It's best advised to use Softwareserial for the serial communication when used with arduino.
+
+Code:
+Download and install the PMS library from the repository.
