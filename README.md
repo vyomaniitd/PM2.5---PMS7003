@@ -10,3 +10,6 @@ All of the data pins require a 3.3v TTL level, but power must be supplied to VCC
 
 Code:
 Download and install the PMS library from the repository [PMS_Library-1.1.0].
+Copy the code from PMS7003_Basic and upload it in your UNO, and that's it. You can see the data flowing in your serial monitor. 
+
+![Screenshot 2021-12-28 001538](https://user-images.githubusercontent.com/96729158/147499103-8ad24c82-09d1-4e0d-9b58-d2c25bf03a13.png)
