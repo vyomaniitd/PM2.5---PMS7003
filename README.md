@@ -3,5 +3,6 @@ Measure the Particulate matter level with a PMS7003 sensor and an Arduino
 
 **Wiring:**
 
-[PMS7003](https://user-images.githubusercontent.com/96729158/147498559-d8ffc74f-677c-453b-9fb5-3261076e74fa.png)
+![PMS7003](https://user-images.githubusercontent.com/96729158/147498673-238b31cd-9713-4684-9d6d-33fd92b32af4.png)
+
 Connect the Arduino and the sensor as per the wiring diagram. 
